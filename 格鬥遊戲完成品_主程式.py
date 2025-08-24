@@ -2,6 +2,10 @@ import pygame
 from pygame.locals import QUIT
 import sys
 from pygame import mixer
+import os
+
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
 mixer.init()
 pygame.init()
 
