@@ -1,6 +1,6 @@
 # Pygame Fighter
 
-一個使用 **Python + Pygame** 製作的格鬥遊戲。
+一個使用 **Python + Pygame** 製作的格鬥遊戲。(大一下程式設計課程_期末專案)
 
 ## 🎮 遊戲特色
 - 多角色選擇
