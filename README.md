@@ -6,6 +6,24 @@
 - 多角色選擇
 - 各種背景音樂與音效
 - 角色動畫與招式攻擊
+<br>
 
-## 遊玩畫面
-![實際遊玩畫面](實際遊玩畫面/螢幕擷取畫面%202023-05-29%20002907.png)
+## 遊戲介面、如何遊玩
+<p align="center">
+  <img src="實際遊玩畫面/螢幕擷取畫面%202025-08-24%20113159.png" width="45%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="實際遊玩畫面/螢幕擷取畫面%202025-08-24%20113243.png" width="45%">
+</p>
+<br>
+
+## 角色、背景圖選單
+<p align="center">
+  <img src="實際遊玩畫面/螢幕擷取畫面%202025-08-24%20113313.png" width="45%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="實際遊玩畫面/螢幕擷取畫面%202025-08-24%20113723.png" width="45%">
+</p>
+<br>
+
+## 實際遊玩畫面
+<p align="center">
+  <img src="實際遊玩畫面/螢幕擷取畫面%202025-08-24%20113554.png" width="45%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="實際遊玩畫面/螢幕擷取畫面%202025-08-24%20113520.png" width="45%">
+</p>
