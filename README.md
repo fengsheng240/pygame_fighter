@@ -27,3 +27,9 @@
   <img src="實際遊玩畫面/螢幕擷取畫面%202025-08-24%20113554.png" width="45%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="實際遊玩畫面/螢幕擷取畫面%202025-08-24%20113520.png" width="45%">
 </p>
+
+<br><br>
+
+## 參考資料與內容
+https://www.youtube.com/watch?v=s5bd9KMSSW4
+https://www.youtube.com/watch?v=GMBqjxcKogA&t=55s
