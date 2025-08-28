@@ -30,6 +30,7 @@
 
 <br><br>
 
-## 參考資料與內容
-https://www.youtube.com/watch?v=s5bd9KMSSW4<br>
-https://www.youtube.com/watch?v=GMBqjxcKogA&t=55s
+## 參考資料與來源
+本專案部分程式碼與素材參考以下教學影片，並在此基礎上進行修改與功能擴充：<br>
+- [YouTube 教學：Pygame 格鬥遊戲製作教學](https://www.youtube.com/watch?v=s5bd9KMSSW4)<br>
+- [YouTube 教學：遊戲選單系統設計](https://www.youtube.com/watch?v=GMBqjxcKogA&t=55s)<br>
